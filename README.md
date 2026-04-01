@@ -1,4 +1,4 @@
-# OpenClaw Stock Tools
+# Stock Tools for OpenClaw
 
 An OpenClaw extension for A-share stock lookup, fundamentals, official CNINFO report analysis, and opening-auction hotspot analysis.
 

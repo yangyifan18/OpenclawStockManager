@@ -84,7 +84,7 @@ const STOCK_REPORT_SCHEMA = {
 
 const plugin = {
   id: "stock-tools",
-  name: "A-share Stock Tools",
+  name: "Stock Tools",
   description: "A-share stock lookup, fundamentals, and auction hotspot tools for OpenClaw.",
   configSchema: emptyPluginConfigSchema(),
   register(api: OpenClawPluginApi) {
